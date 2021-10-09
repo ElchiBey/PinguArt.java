@@ -5,7 +5,7 @@ import static pgdp.MiniJava.*;
 public class PinguArt {
 
 	public static void main(String[] args) {
-int n=0, b, c, i, k=0;
+int n=0;
         int N1 = readInt("Please enter a Pinguin Art number: ");
         int N2 = readInt("Please enter a Pinguin Art number: ");
         int N3 = readInt("Please enter a Pinguin Art number: ");
