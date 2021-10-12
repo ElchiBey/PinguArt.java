@@ -21,7 +21,7 @@ public class PinguArt {
             if (a == 0) writeConsole(" ");
             else if (a == 1) writeConsole("-");
             else if (a == 2) writeConsole("~");
-            else writeConsole("p");
+            else writeConsole("P");
             N1 = (N1 - N1 % 10) / 10;
             n++;
         }
@@ -31,7 +31,7 @@ public class PinguArt {
             if (a == 0) writeConsole(" ");
             else if (a == 1) writeConsole("-");
             else if (a == 2) writeConsole("~");
-            else writeConsole("p");
+            else writeConsole("P");
             N2 = (N2 - N2 % 10) / 10;
             n++;
         }
@@ -43,7 +43,7 @@ public class PinguArt {
             if (a == 0) writeConsole(" ");
             else if (a == 1) writeConsole("-");
             else if (a == 2) writeConsole("~");
-            else writeConsole("p");
+            else writeConsole("P");
             N3 = (N3 - N3 % 10) / 10;
             n++;
         }
@@ -53,7 +53,7 @@ public class PinguArt {
             if (a == 0) writeConsole(" ");
             else if (a == 1) writeConsole("-");
             else if (a == 2) writeConsole("~");
-            else writeConsole("p");
+            else writeConsole("P");
             N4 = (N4 - N4 % 10) / 10;
             n++;
         }
@@ -65,7 +65,7 @@ public class PinguArt {
             if (a == 0) writeConsole(" ");
             else if (a == 1) writeConsole("-");
             else if (a == 2) writeConsole("~");
-            else writeConsole("p");
+            else writeConsole("P");
             N5 = (N5 - N5 % 10) / 10;
             n++;
         }
@@ -87,7 +87,7 @@ public class PinguArt {
             if (a == 0) writeConsole(" ");
             else if (a == 1) writeConsole("-");
             else if (a == 2) writeConsole("~");
-            else writeConsole("p");
+            else writeConsole("P");
             N7 = (N7 - N7 % 10) / 10;
             n++;
         }
@@ -97,7 +97,7 @@ public class PinguArt {
             if (a == 0) writeConsole(" ");
             else if (a == 1) writeConsole("-");
             else if (a == 2) writeConsole("~");
-            else writeConsole("p");
+            else writeConsole("P");
             N8 = (N8 - N8 % 10) / 10;
             n++;
         }
