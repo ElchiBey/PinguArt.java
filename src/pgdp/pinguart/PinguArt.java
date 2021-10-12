@@ -6,14 +6,14 @@ public class PinguArt {
 
 	public static void main(String[] args) {
         int n=0;
-        int N1 = readInt("Please enter a Pinguin Art number: ");
-        int N2 = readInt("Please enter a Pinguin Art number: ");
-        int N3 = readInt("Please enter a Pinguin Art number: ");
-        int N4 = readInt("Please enter a Pinguin Art number: ");
-        int N5 = readInt("Please enter a Pinguin Art number: ");
-        int N6 = readInt("Please enter a Pinguin Art number: ");
-        int N7 = readInt("Please enter a Pinguin Art number: ");
-        int N8 = readInt("Please enter a Pinguin Art number: ");
+        int N1 = readInt("Please enter a Pinguin Art number:");
+        int N2 = readInt("Please enter a Pinguin Art number:");
+        int N3 = readInt("Please enter a Pinguin Art number:");
+        int N4 = readInt("Please enter a Pinguin Art number:");
+        int N5 = readInt("Please enter a Pinguin Art number:");
+        int N6 = readInt("Please enter a Pinguin Art number:");
+        int N7 = readInt("Please enter a Pinguin Art number:");
+        int N8 = readInt("Please enter a Pinguin Art number:");
         write("+---[PinguArt]---+");
         writeConsole("|");
         while (n < 8) {
